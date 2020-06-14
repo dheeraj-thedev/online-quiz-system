@@ -17,11 +17,11 @@ else{}
 
 <title> Quizzer  </title>
    
- <link rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/image/main.css">
- <link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/image/font.css">
+ <link rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/main.css">
+ <link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/font.css">
  <script src="https://s3.ap-south-1.amazonaws.com/web.atb.com/js/jquery.js" type="text/javascript"></script>
-<link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/image/bootstrap.min.css"/>
- <link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/image/bootstrap-theme.min.css"/> 
+<link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/bootstrap.min.css"/>
+ <link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/bootstrap-theme.min.css"/> 
   <script src="https://s3.ap-south-1.amazonaws.com/web.atb.com/js/bootstrap.min.js"  type="text/javascript"></script>
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
 <?php

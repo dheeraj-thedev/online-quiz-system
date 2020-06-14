@@ -3,14 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Quizzer </title>
-  <link rel="icon" href="favicon.ico" type="icon" sizes="16x16">
- <link rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css//main.css">
+ <link rel="icon" href="favicon.ico" type="icon" sizes="16x16">
+ <link rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/main.css">
  <link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/font.css">
  <script src="https://s3.ap-south-1.amazonaws.com/web.atb.com/js/jquery.js" type="text/javascript"></script>
-<link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/bootstrap.min.css"/>
+ <link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/bootstrap.min.css"/>
  <link  rel="stylesheet" href="https://s3.ap-south-1.amazonaws.com/web.atb.com/css/bootstrap-theme.min.css"/>  
-  <script src="https://s3.ap-south-1.amazonaws.com/web.atb.com/js/bootstrap.min.js"  type="text/javascript"></script>
-  <link href='http://fonts.googleapis.com/css/?family=Roboto:400,700,300' rel='stylesheet' type='text/css/'>
+ <script src="https://s3.ap-south-1.amazonaws.com/web.atb.com/js/bootstrap.min.js"  type="text/javascript"></script>
+ <link href='http://fonts.googleapis.com/css/?family=Roboto:400,700,300' rel='stylesheet' type='text/css/'>
 <?php
 if (@$_GET['w']) {
     echo '<script>alert("' . @$_GET['w'] . '");</script>';
